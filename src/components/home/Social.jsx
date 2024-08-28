@@ -5,21 +5,21 @@ const Social = () => {
       <a
         href="https://www.instagram.com/"
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i className="uil uil-instagram"></i>
       </a>
       <a
         href="https://dribbble.com/"
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i className="uil uil-dribbble"></i>
       </a>
       <a
         href="https://www.github.com"
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i className="uil uil-github-alt"></i>
       </a>
